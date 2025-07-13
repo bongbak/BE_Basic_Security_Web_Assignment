@@ -26,4 +26,4 @@ Notion: https://kimsoobin1602.notion.site/217957a41faf8011aaa8da76eec79cb0?sourc
 
 구글폼: https://forms.gle/Py3kLEcSf1SBSGG78
 
-박은채
+박은채 / 정보통신공학과 / 2024112172
