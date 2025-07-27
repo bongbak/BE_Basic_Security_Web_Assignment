@@ -26,4 +26,7 @@ Notion: https://kimsoobin1602.notion.site/217957a41faf8011aaa8da76eec79cb0?sourc
 
 구글폼: https://forms.gle/Py3kLEcSf1SBSGG78
 
-박은채
+박은채 
+
+# MVC 학습
+https://www.notion.so/MVC-22fff274ce54809b8a74efeb2134f0b1?source=copy_link
